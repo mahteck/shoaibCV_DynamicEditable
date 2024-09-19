@@ -1,0 +1,15 @@
+#resumeOutput div {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#resumeOutput div:hover {
+    background-color: #f0f0f0;
+    padding: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+}
